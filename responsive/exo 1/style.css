@@ -1,0 +1,75 @@
+h1:first-child{
+    margin-left: 25%;
+    width: 50%;
+    font-size: 100px;
+    background-color: rgb(18, 185, 18);
+    text-align: center;
+    color: white;
+}
+div{
+    background-color: rgb(18, 185, 18);
+    height: 20vw;
+    width: 20vw;
+    margin: 3% 50% 1% 38%;
+    border-radius: 60% 5%;
+}
+#cj, #o, #pm{
+    display: none;
+}
+#cv{
+    display: block;
+}
+
+@media screen and (min-width: 776px) and (max-width: 991px){
+    #cv, #pm, #o{ display: none;}
+    #cj{ display: block; 
+        margin-left: 25%;
+        width: 50%;
+        font-size: 100px;
+        background-color: rgb(248, 232, 10);
+        text-align: center;
+        color: white;}
+     div {
+        background-color: rgb(255, 238, 0);
+        height: 20vw;
+        width: 20vw;
+        margin: 3% 40% 1% 43%;
+        border-radius: 5% 60%;
+     }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px){
+    #cv, #pm, #cj{ display: none;}
+    #o{ display: block; 
+        margin-left: 25%;
+        width: 50%;
+        font-size: 100px;
+        background-color: rgb(248, 97, 10);
+        text-align: center;
+        color: white;}
+     div {
+        background-color: rgb(255, 94, 0);
+        height: 20vw;
+        width: 20vw;
+        margin: 3% 40% 1% 43%;
+        border-radius: 100% 100%;
+     }
+}
+
+@media screen and (min-width: 1200px){
+    #cv, #o, #cj{ display: none;}
+    #pm{ display: block; 
+        margin-left: 25%;
+        width: 50%;
+        font-size: 100px;
+        background-color: rgb(214, 113, 54);
+        text-align: center;
+        color: white;}
+     div {
+        background-color: rgb(221, 132, 81);
+        height: 25vw;
+        width: 25vw;
+        margin: 3% 40% 1% 38%;
+        border-radius: 100% 100%;
+     }
+}

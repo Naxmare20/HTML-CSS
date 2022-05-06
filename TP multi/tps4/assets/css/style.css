@@ -1,0 +1,34 @@
+div.h{
+   background-color: red;
+   padding: 8%;
+   text-align: center;
+   
+}
+div.nav{
+    background-color: goldenrod;
+    padding: 6%;
+    text-align: center;
+}
+div.b{
+    background-color: gray;
+    padding: 1%;
+}
+div.center{
+    background-color: lightcoral;
+    float: left;
+    padding: 33%;
+    text-align: center;
+    margin: 17%;
+}
+div.marg{
+    padding: 10%;
+    text-align: center;
+}
+div.Header{
+    background-color: gainsboro;
+   float: left;
+    padding: 10%;
+    padding-left: 88%;
+    text-align: center;
+    
+}

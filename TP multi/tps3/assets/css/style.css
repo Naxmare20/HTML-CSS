@@ -1,0 +1,17 @@
+div.cg{
+    background-color: aqua;
+    float: left;
+    padding: 22%;
+    padding-bottom: 35%;
+}
+div.cd{
+    background-color: brown;
+    float: right;
+    padding: 23%;
+    padding-bottom: 34%;
+}
+div.bas{
+    background-color: chocolate;
+    padding: 30%;
+    text-align: center;
+}

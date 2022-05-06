@@ -1,0 +1,21 @@
+ .flex-container{
+    display: flex;
+    justify-content: center;
+    background-color: #83003ee6;
+    align-items: center;
+}
+.flex-item1, .flex-item3, .flex-item, .flex-item2, .flex-item4{
+    background-color: #fed4b9;
+    width: 200px;
+    margin: 0.5%;
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+} 
+.flex-item2{
+    flex: 1;
+}
+
+.flex-item4{
+    order: -1;
+}

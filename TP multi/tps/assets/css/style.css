@@ -1,0 +1,17 @@
+div.haut{
+    background-color: yellow;
+    padding: 8%;
+    text-align: center;
+}
+div.cg{
+    background-color: green;
+    float: left;
+    padding: 6%;
+    padding-bottom: 50%;
+}
+div.cd{
+    background-color: grey;
+    float: left;
+    padding-left: 78%;
+    padding-bottom: 56%;
+}

@@ -1,0 +1,16 @@
+body{
+    height: 500px;
+}
+td{
+    margin: auto;
+    
+}
+
+table{
+    width: 100%;
+    border: #6093ed solid 2px;
+    height: 220px;
+}
+.color{
+    background-color: #eff6ff;
+}

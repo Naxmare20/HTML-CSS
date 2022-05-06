@@ -1,0 +1,72 @@
+.div1{
+    background-color: blue;
+    float: left;
+    padding: 10%;
+   
+}
+.div2{
+    background-color: blueviolet;
+    float: left;
+    padding: 10%;
+    width: 40%;
+   
+}
+.div3{
+    background-color: blue;
+    float: right;
+    padding: 10%;
+}
+.div4{
+    background-color: violet;
+    float: left;
+    padding: 5%;
+    width: 100%;
+}
+.div5{
+    background-color: blue;
+    float: left;
+    padding-bottom: 80%;
+    width: 20%;
+}
+.div6{
+    background-color: gray;
+    float: left;
+    padding: 20%;
+}
+.div7{
+    background-color: blanchedalmond;
+    float: left;
+    padding: 20%;
+}
+.div8{
+    background-color: blueviolet;
+    float: left;
+    padding: 10%;
+    width: 60%;
+}
+.div9{
+    background-color: cyan;
+    float: left;
+    padding: 10%;
+}
+.div10{
+    background-color: darkblue;
+    float: left;
+    padding: 10%;
+}
+.div11{
+    background-color: darkcyan;
+    float: left;
+    padding: 10%;
+}
+.div12{
+    background-color: darkgray;
+    float: right;
+    padding: 10%;
+}
+.div13{
+    background-color: darkslateblue;
+    float: left;
+    padding: 5%;
+    width: 100%;
+}

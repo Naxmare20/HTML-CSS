@@ -1,0 +1,180 @@
+body{
+    background-image: url(../img/fond_jaune.png);
+    font-family: 'Trebuchet MS',  Arial, sans-serif;
+}
+h1{
+    font-family: 'Rubik Beastly', cursive;
+    float: left;
+    padding-left: 30px;
+    font-size: 60px;
+    margin-top: 2px;
+    font-weight: 200;
+}
+h2{
+    font-family: 'Gluten', cursive;   
+    font-size: 25px;
+    
+}
+main{
+    margin: auto;
+    width: 1200px;
+    height: 800px;
+    padding: 20px;
+}
+header{
+    float: left;
+}
+img.logo{
+    float: left;
+    width: 75px;
+}
+ul.navi{
+    text-align: center;
+    display: inline-flex;
+}
+li.nav{
+    margin-right: 200px;
+    list-style: none;
+    font-family: 'Gluten', cursive;
+    font-size: x-large;
+}
+
+.clear{
+    clear: both;
+}
+img.separeteur{
+    width: 98%;
+    height: 4px;
+}
+.ing{
+    width: 99%;
+    border-radius: 5px;
+}
+.lgbt{
+    float: left;
+    margin-top: 70px;
+    margin-right: 12px;
+}
+h3{
+    position: relative;
+    bottom: 65px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 1168px;
+    color: white;
+    font-size: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+div.lorem{
+    float: left;
+    width: 65%;
+    font-size: 16px;
+}
+p.article{
+    background-image: url(../img/fond_degraderouge.png);
+    width: 120px;
+    height: 24px;
+    text-align: center;
+    color: white;
+    position: relative;
+    left: 88%;
+    top: 56px;
+    border-radius: 5px;
+    padding-top: 4px;
+}
+img.blanc{
+    position: relative;
+    left: 1163px;
+    top: 17px;
+}
+div.img{
+    height: 160px;
+}
+h2.text{
+    margin-top: 85px;
+    float: left;
+}
+div.droite{
+   width: 25%;
+   float: right;
+   background-color: #706b64;
+   border-radius: 10px;
+   height: 72%;
+}
+p.info{
+    color: white;
+    word-spacing: 8px;
+}
+h2.infos{
+     color: white;
+    word-spacing: 75px;
+}
+img.ane{
+   width: 92%;
+   display: block;
+   margin: 0 auto;
+}
+img.lg{
+    margin: 7px;
+}
+img.bulle{
+    position: relative;
+    right: 12px;
+    top: 135px;
+}
+h2.titre{
+    font-size: 50px;
+}
+img.sepa{
+    position: relative;
+    top: 4%;
+    width: 75%;
+    float: left;
+    height: 4px;
+}
+img.ico{
+    position: relative;
+    top: 703px;
+}
+ul.bat{
+    float: left;
+    margin-top: 65px;
+    width: 100%;
+    list-style: none;
+    display: inline-flex;
+}
+div.h{
+    float: left;
+    width: 30%;
+}
+div.f{
+    float: left;
+}
+li.pam{
+    margin-right: 300px;
+    font-size: 17px;
+}
+ul.navix{
+    float: right;
+    width: 21%;
+    color: #760001;
+}
+ul.navixe{
+    float: left;
+    width: 18%;
+    color: #760001;
+}
+div.copy{
+    position: relative;
+    top: 120%;
+    right: 60px;
+    color: white;
+    background-color: #1f0505;
+    height: 60px;
+}
+p.copyr{
+    position: relative;
+    top: 20px;
+}

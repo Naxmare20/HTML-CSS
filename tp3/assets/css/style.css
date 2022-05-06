@@ -1,0 +1,16 @@
+nav{
+    background-color: gray;
+    text-align: center;
+    padding: 1.5%;
+    margin: 5px;
+}
+
+
+li{
+    display: inline-block;
+    text-decoration: none;
+    margin: 5px;
+    background-color: aqua;
+    padding: 16px 15px;
+    border-radius: 15px;
+}

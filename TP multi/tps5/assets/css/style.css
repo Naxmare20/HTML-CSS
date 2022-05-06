@@ -1,0 +1,45 @@
+body{
+    width: 100%;
+}
+
+.head{
+    background-color: yellow;
+    height: 200px;
+}
+.nav{
+    background-color: yellowgreen;
+    height: 100px;
+    box-sizing: content-box;
+    border-bottom: 20px solid red;
+    
+}
+section{
+    border: 100px solid white;
+}
+.sec1{
+    background-color: yellowgreen;
+    float: left;
+    padding: 25%;
+}
+.sec2{
+    background-color: yellow;
+    float: right;
+    padding: 25%;
+}
+.sec3{
+    background-color: yellow;
+    float: left;
+    padding: 25%;
+}
+.sec4{
+    background-color: yellowgreen;
+    float: right;
+    padding: 25%;
+}
+.foot{
+    background-color: yellowgreen;
+    margin-top: 100px;
+    float: left;
+    padding: 10%;
+    width: 100%;
+}

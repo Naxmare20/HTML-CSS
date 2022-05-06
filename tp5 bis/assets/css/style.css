@@ -1,0 +1,325 @@
+.d1{
+    background-color: blue;
+    float: left;
+    padding: 7%;
+    border-radius: 10% 20% 20% 40%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d2{
+    border-radius: 100px 0px / 120px;
+    background-color: green;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d3{
+    border-radius: 10% 20% 20% 40%;
+    float: left;
+    background-color: blue;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+
+.d4{
+    border-radius: 100px 0px / 120px;
+    background-color: green;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+
+.d5{
+    border-radius: 10% 20% 20% 40%;
+    float: left;
+    background-color: blue;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d6{
+    border-radius: 100px 0px / 120px;
+    background-color: green;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.d7{
+    border-radius: 100px 0px / 120px;
+    background-color: green;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d8{
+    border-radius: 100% 100% 100% 100%;
+    background-color: blueviolet;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d9{
+    border-radius: 10% 25%;
+    background-color: brown;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d10{
+    border-radius: 100% 100% 100% 100%;
+    background-color: blueviolet;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d11{
+    border-radius: 10% 25%;
+    background-color: brown;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px
+}
+.d12{
+    border-radius: 10% 20% 20% 40%;
+    float: left;
+    background-color: blue;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d13{
+    border-radius: 10% 20% 20% 40%;
+    float: left;
+    background-color: blue;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d14{
+    border-radius: 10% 25%;
+    background-color: brown;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px
+}
+.d15{
+    border-radius: 100% 100% 100% 100%;
+    background-color: blueviolet;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d16{
+    border-radius: 10% 25%;
+    background-color: brown;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px
+}
+.d17{
+    border-radius: 10% 25%;
+    background-color: white;
+    float: left;
+    padding: 7%;
+    margin: 3px
+}
+.d18{
+    border-radius: 100px 0px / 120px;
+    background-color: green;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d19{
+    border-radius: 100px 0px / 120px;
+    background-color: green;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d20{
+    border-radius: 100% 100% 100% 100%;
+    background-color: blueviolet;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d21{
+    border-radius: 10% 25%;
+    background-color: brown;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px
+}
+.d22{
+    border-radius: 10% 25%;
+    background-color: white;
+    float: left;
+    padding: 7%;
+    margin: 3px
+}
+.d23{
+    border-radius: 10% 25%;
+    background-color: brown;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px
+}
+.d24{
+    border-radius: 10% 20% 20% 40%;
+    float: left;
+    background-color: blue;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d25{
+    border-radius: 10% 20% 20% 40%;
+    float: left;
+    background-color: blue;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d26{
+    border-radius: 10% 25%;
+    background-color: brown;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px
+}
+.d27{
+    border-radius: 10% 25%;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    padding: 7%;
+    margin: 3px
+}
+.d28{
+    border-radius: 10% 25%;
+    background-color: brown;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px
+}
+.d29{
+    border-radius: 100% 100% 100% 100%;
+    background-color: blueviolet;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d30{
+    border-radius: 100px 0px / 120px;
+    background-color: green;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d31{
+    border-radius: 100px 0px / 120px;
+    background-color: green;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d32{
+    border-radius: 10% 20% 20% 40%;
+    float: left;
+    background-color: blue;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d33{
+    border-radius: 100px 0px / 120px;
+    background-color: green;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d34{
+    border-radius: 10% 20% 20% 40%;
+    float: left;
+    background-color: blue;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d35{
+    border-radius: 100px 0px / 120px;
+    background-color: green;
+    float: left;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}
+.d36{
+    border-radius: 10% 20% 20% 40%;
+    float: left;
+    background-color: blue;
+    padding: 7%;
+    border: black;
+    border: solid;
+    margin: 3px;
+}

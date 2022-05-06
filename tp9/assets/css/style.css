@@ -1,0 +1,161 @@
+body {
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+section#logo {
+  margin: 0px 548px 0px 480px;
+  float: left;
+  width: 50%;
+}
+.img-header {
+  margin: 70px 0px 0px 0px;
+}
+.border-yellow {
+  background: linear-gradient(280deg, orange, white);
+}
+#logo-2 {
+  width: 5px;
+  height: 250px;
+  float: left;
+  margin: 0px 30px 0px 0px;
+}
+p.text-logo {
+  font-size: 28px;
+  margin: 0;
+}
+#orange {
+  color: orange;
+}
+#info-client {
+  border: solid 1px;
+  background-color: #ECECEC;
+  float: right;
+  width: 50%;
+  margin: 0px;
+
+}
+div#info-client{
+    position: relative;
+    bottom: 220px;
+    left: 960px;
+    width: 26%;
+    float: left;
+}
+.compte {
+  margin: 26px 10px;
+  width: 26%;
+  float: left;
+}
+.panier {
+  margin: 26px 10px;
+  width: 31%;
+  float: left;
+}
+#inline-block {
+  padding: 0;
+}
+
+.img-compte {
+  float: left;
+  margin: 10px 20px;
+}
+.img-panier {
+  float: left;
+  margin: 10px;
+}
+#Salut{
+   float: right;
+   position: relative;
+   right: 440px;
+   bottom: 160px;
+   font-size: 30px;
+}
+.nav{
+  margin: 0;
+  list-style: none;
+  text-align: center;
+  display: flex;
+  position: relative;
+  right: 100px;
+}
+.navig{
+  margin: 0px;
+  position: relative;
+  left: 500px;
+  border-left: solid gray 1px;
+  width: 13%;
+  height: 30px;
+}
+#border-right{
+  border-right: solid gray 1px;
+}
+main{
+  width: 100%;
+  height: 3000px;
+  background-color: #1C1C1C;
+}
+section#block-boutique{
+  margin: 0px 548px 0px 480px;
+    float: left;
+    width: 50%;
+}
+article.image-header{
+  height: 301px;
+}
+section#vente-gant{
+    margin: 0px 548px 0px 480px;
+    float: left;
+    width: 60%;
+    height: 1500px;
+    background-color: #f4f4f4;
+    position: relative;
+    right: 100px;
+}
+.img-main-width{
+  width: 120%;
+  box-shadow: 0px 1px 10px black;
+  position: relative;
+  right: 100px;
+}
+#gants{
+  width: 50%;
+}
+.image-taille{
+  width: 75%;
+  margin-left: 80px;
+  margin-top: 60px;
+}
+.gant-prix-haut-1{
+  float: left;
+  position: relative;
+
+}
+.gant-prix-haut-2{
+  float: right;
+  position: relative;
+  bottom: 8%;
+}
+.gant-prix-haut-3{
+  float: left;
+  position: relative;
+}
+.gant-prix-haut-4{
+  float: right;
+  position: relative;
+  bottom: 46%;
+}
+.gant-prix-bas-1{
+    float: left;
+}
+.gant-prix-bas-1{
+     float: right;
+}
+.gant-prix-bas-1{
+  float: left;
+}
+.gant-prix-bas-1{
+  float: right;
+}
+

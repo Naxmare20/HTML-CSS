@@ -1,0 +1,122 @@
+/* COLORS & DECORATION
+
+=> BODY
+font-family: 'Raleway', sans-serif;
+background: rgba(157, 171, 214, 0.48);
+color: #333;
+font-size: 1.4em;
+
+
+=> H1
+color: #345;
+
+=> SPAN & ASIDE
+lightcoral
+
+=> bouton
+#3C65F5
+
+=> Textarea & Small
+#aaa
+*/
+
+input:focus,
+textarea:focus {
+  outline: none;
+}
+
+/* Imports /!\ always on top */
+@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
+
+body {
+  font-family: "Raleway", sans-serif;
+  background: rgba(157, 171, 214, 0.48);
+  color: #333;
+  font-size: 1.4em;
+}
+h1 {
+  color: #345;
+  text-align: center;
+  text-shadow: #345;
+}
+aside {
+  background-color: lightcoral;
+  height: 2px;
+  width: 50%;
+  margin-left: 500px;
+}
+span {
+  background-color: lightcoral;
+  height: 3px;
+  width: 20%;
+  margin-left: 300px;
+}
+* {
+  box-sizing: border-box;
+}
+form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+div {
+  display: flex;
+  flex-basis: 40%;
+  margin: 20px;
+  background-color: #ffffff;
+  height: 650px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 10px gray;
+}
+div {
+  display: flex;
+  flex-direction: column;
+}
+
+textarea {
+  margin: 20px;
+  background-color: #f0f0f0;
+  color: gray;
+  font-size: 30px;
+}
+input {
+  width: 60%;
+  height: 50px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
+.bouton{
+    width: 35%;
+    height: 60px;
+    float: right;
+    margin-right: 30px;
+    font-size: 50px;
+    background-color: #3C65F5;
+    color: white;
+    border: none;
+}
+.bouton:hover{
+    transition: 0.8s;
+    background-color: white;
+    color: #3C65F5;
+}
+
+label {
+  display: inline-block;
+  width: 30%;
+  font-size: 30px;
+  margin-left: 20px;
+}
+.titre {
+  text-align: center;
+  font-size: 30px;
+}
+.utile{
+    color: gray;
+    margin: 20px;
+}
+.modif-2{
+    margin-top: 5px;
+    width: 25%;
+    margin-left: 700px;
+}

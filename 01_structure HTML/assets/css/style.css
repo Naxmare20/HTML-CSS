@@ -1,0 +1,41 @@
+header {
+    background-image: url(../img/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+      height: 430px;
+      line-height: 100px;
+      background-attachment: fixed;
+      background-position: center;
+}
+h1 {
+     text-align: center;
+     font-size: 3em;
+     padding-top: 170px;
+}
+h2{
+    margin-left: 75px;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+}
+
+main{
+    display: inline-block;
+    
+}
+div.livre_1{
+    display: inline-block;
+    padding: 30px;
+}
+div.livre_2{
+    display: inline-block;
+    padding: 30px;
+}
+div.livre_3{
+    display: inline-block;
+    padding: 30px;
+}
+section{
+    margin: 250px;
+    
+}

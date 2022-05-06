@@ -1,0 +1,25 @@
+div.header{
+    background-color: aqua;
+    padding: 5%;
+    text-align: center;
+}
+div.cg{
+    background-color: orange;
+    float: left;
+    padding: 8%;
+    padding-bottom: 48%;
+}
+div.milieu{
+    background-color: orchid;
+    float: left;
+    padding: 28%;
+}
+div.cd{
+    background-color: purple;
+    float: left;
+    padding: 123px;
+    padding-bottom: 49%;
+}
+div.clear{
+    clear: both;
+}
